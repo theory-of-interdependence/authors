@@ -3,4 +3,4 @@ All authors here have made a contribution to the Theory of Interdependence as re
 
 | Author ID | Name | Other Name | Email | Date of Initial Contribution |
 | :-------- | :------- | :------- | :--------- | :------------------ |
-| @kilton | Kilton Patrick Hopkins | And | and.supervillain@gmail.com | October 4th, 2022 |
+| @kilton | Kilton Patrick Hopkins | And | and.supervillain@gmail.com | September 5th, 2022 |
